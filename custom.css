@@ -263,3 +263,5 @@ nav item hover */
     color: white !important;
   }
 
+.services.active, .services:hover {
+    background: #020079; }
